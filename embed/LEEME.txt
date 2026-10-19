@@ -1,0 +1,4 @@
+Coloca aquí los binarios que se incrustarán dentro del exe:
+  yt-dlp.exe  -> https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
+  deno.exe    -> (opcional) https://github.com/denoland/deno/releases/latest/download/deno-x86_64-pc-windows-msvc.zip
+O ejecuta preparar.ps1, que los descarga y compila.
